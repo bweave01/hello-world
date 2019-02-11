@@ -1,2 +1,2 @@
 # hello-world
-Introductory repo
+Introductory repo. Inital branch edits done through GitHub.
